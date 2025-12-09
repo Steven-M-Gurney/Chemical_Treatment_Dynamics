@@ -17,5 +17,5 @@ ________________________________________________________________________________
 
 ### [Site_Conditions.R](./Site_Conditions.R): Code to processes WCAA environmental sampling records and generates site-condition estimates for pond-level modeling.
 
-###
+### [Exponential_Decay_Models.R](./Exponential_Decay_Models.R): Code to develop exponential-decay models and estimate chemical half-life using the pond-temperature model and the lake-and-pond temperature model.
 
