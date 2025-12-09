@@ -12,3 +12,10 @@ PAGE UNDER CONSTRUCTION
 
 #### Please contact the first author for questions about the code or data: Steven M. Gurney (stevenmgurney@gmail.com)
 __________________________________________________________________________________________________________________________________________
+
+## Repository Directory
+
+### [Site_Conditions.R](./Site_Conditions.R): Code to processes WCAA environmental sampling records and generates site-condition estimates for pond-level modeling.
+
+###
+
