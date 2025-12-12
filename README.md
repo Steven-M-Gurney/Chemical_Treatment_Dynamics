@@ -15,6 +15,9 @@ ________________________________________________________________________________
 
 ## Repository Directory
 
+
+### [Cross_Study_Data.csv](./Cross_Study_Data.csv): Literature-derived cross-study dataset used for model fitting, including water temperature, pH, and rotenone half-life estimates.
+
 ### [Site_Conditions.R](./Site_Conditions.R): Code to processes WCAA environmental sampling records and generates site-condition estimates for pond-level modeling.
 
 ### [Half_Life_Modeling.R](./Half_Life_Modeling.R): Code to develop and apply exponential-decay and log–linear models for estimating rotenone half-life from cross-study degradation data, generate visualizations, and synthesize results using model averaging.
