@@ -1,10 +1,10 @@
 PAGE UNDER CONSTRUCTION
 
-# Chemical treatment dynamics
+# Rotenone-based management of invasive fish at DTW: a feasibility analysis using chemical dynamics modeling
 
-### [Steven Gurney](https://linktr.ee/stevenmgurney), [Austin Messing](), [Selena Creed]()
+### [Steven Gurney](https://linktr.ee/stevenmgurney), [Selena Creed]()
 
-### Manuscript: Airfield Operations – Wildlife Division, Special Publication No. 25-03. Wayne County Airport Authority, Detroit, MI, USA.
+### Manuscript: Airfield Operations–Wildlife Division, Special Publication No. 25-03. Wayne County Airport Authority, Detroit, MI, USA.
 
 ### Censored manuscript available here: [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17842930.svg)](https://doi.org/10.5281/zenodo.17842930)
 
