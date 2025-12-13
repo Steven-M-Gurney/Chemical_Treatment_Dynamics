@@ -18,7 +18,7 @@ ________________________________________________________________________________
 
 ### [Cross_Study_Data.csv](./Cross_Study_Data.csv): Literature-derived cross-study dataset used for model fitting, including water temperature, pH, and rotenone half-life estimates.
 
-### [Decay_Scenarios.R](./Decay_Scenarios.R): Code for running decay and dilution scenarios, summarizing results, and visualizing decay.
+### [Decay_Scenarios.R](./Decay_Scenarios.R): Code for running decay and dilution scenarios, summarizing associated results, and visualizing decay.
 
 ### [Half_Life_Modeling.R](./Half_Life_Modeling.R): Code to develop and apply exponential-decay and log–linear models for estimating rotenone half-life from cross-study degradation data, generate visualizations, and synthesize results using model averaging.
 
