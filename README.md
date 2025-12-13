@@ -1,5 +1,3 @@
-PAGE UNDER CONSTRUCTION
-
 # Rotenone-based management of invasive fish at DTW: a feasibility analysis using chemical dynamics modeling
 
 ### [Steven Gurney](https://linktr.ee/stevenmgurney), [Selena Creed]()
