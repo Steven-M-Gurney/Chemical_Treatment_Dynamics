@@ -13,6 +13,11 @@ PAGE UNDER CONSTRUCTION
 #### Please contact the first author for questions about the code or data: Steven M. Gurney (stevenmgurney@gmail.com)
 __________________________________________________________________________________________________________________________________________
 
+## Summary
+
+Invasive goldfish (Carassius auratus) in retention ponds at Detroit Metropolitan Wayne County Airport (DTW) pose a persistent wildlife-hazard concern by attracting fish-eating birds associated with damaging aircraft strikes. Rotenone is one potential management tool capable of achieving complete fish eradication and improving pond water quality, but its feasibility in highly managed stormwater systems depends on how rapidly it degrades under site-specific conditions. This project uses published rotenone degradation data, DTW pond temperature and pH measurements, and mass-balance dilution modeling to estimate rotenone half-life, simulate decay–dilution scenarios, and evaluate whether regulatory discharge thresholds can be met within operational constraints. By integrating exponential and log-linear chemical models and applying model averaging, this analysis provides reproducible, decision-relevant estimates of rotenone persistence to support structured evaluation of chemical treatment alongside alternative invasive fish management strategies at DTW.
+__________________________________________________________________________________________________________________________________________
+
 ## Repository Directory
 
 
